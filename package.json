@@ -1,0 +1,18 @@
+{
+  "name": "inkc-dapp",
+  "version": "0.0.1",
+  "description": "Inkchain Dapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-inkc:INKCIO/dapp.git"
+  },
+  "keywords": [
+    "Blockchain"
+  ],
+  "author": "inkcdev",
+  "license": "GPL-3.0"
+}
