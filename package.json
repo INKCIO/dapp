@@ -14,5 +14,8 @@
     "Blockchain"
   ],
   "author": "inkcdev",
-  "license": "GPL-3.0"
+  "license": "GPL-3.0",
+  "dependencies": {
+    "web3": "^0.20.4"
+  }
 }
