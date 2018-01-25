@@ -16,6 +16,7 @@
   "author": "inkcdev",
   "license": "GPL-3.0",
   "dependencies": {
+    "commander": "^2.13.0",
     "web3": "^0.20.4"
   }
 }
