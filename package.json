@@ -16,6 +16,7 @@
   "author": "inkcdev",
   "license": "GPL-3.0",
   "dependencies": {
+    "axios": "^0.17.1",
     "commander": "^2.13.0",
     "express": "^4.16.2",
     "web3": "^0.20.4"
