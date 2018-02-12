@@ -22,3 +22,5 @@ if (cluster.isMaster) {
         fork();
     }
 }
+
+process.title = cluster.isMaster ? 'Dapp Master' : 'Dapp Cluster';
